@@ -1,0 +1,30 @@
+
+.titulo{
+background-color: rgb(54, 56, 168);
+color: white;
+border-radius: 20px;
+padding: 20px;
+text-align: center;
+}
+
+
+
+.introduccion{
+
+
+margin: 0 auto;
+padding: 12px;
+
+
+}
+
+
+
+.img{
+
+display: block;
+margin: 0;
+transform: scale(0.9);
+border-radius:30%;
+
+}
